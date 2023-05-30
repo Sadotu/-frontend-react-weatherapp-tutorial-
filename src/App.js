@@ -5,7 +5,7 @@ import SearchBar from './components/searchBar/SearchBar';
 import TabBarMenu from './components/tabBarMenu/TabBarMenu';
 import MetricSlider from './components/metricSlider/MetricSlider';
 
-const apiKey = '--plaats jouw unieke API key hier--';
+const apiKey = '7e0199acd689491480a2415b0abe1de2';
 
 function App() {
     const [weatherData, setWeatherData] = useState({});
